@@ -1,7 +1,7 @@
 使い方（Usage）
 =====
 
-```groovy
+```
 @GrabResolver(name='groovy-camel-helper', root='http://www.wingnest.com/mvn-repo/')
 @Grab('com.wingnest.groovy:groovy-camel-helper:1.0-SNAPSHOT')
 
