@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.wingnest.groovy</groupId>
   <artifactId>groovy-camel-helper</artifactId>
-  <version>1.0-M1-SNAPSHOT</version>
+  <version>1.0-M1</version>
   <name>Groovy Camel Helper</name>
   
   <properties>
